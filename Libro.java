@@ -1,5 +1,5 @@
 import java.util.UUID;
-
+//Asignacion de variables y manejo de libros
 public class Libro {
     private Long id; // Identificador único del libro
     private String titulo;
