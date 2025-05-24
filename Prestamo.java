@@ -1,3 +1,4 @@
+//Manejo de prestamos
 public class Prestamo {
     private String documentoUsuario; // Documento del usuario que solicita
     private Libro libro;
