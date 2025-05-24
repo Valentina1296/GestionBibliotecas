@@ -1,0 +1,1 @@
+GestionBibliotecas es una aplicación desarrollada en Java que permite registrar libros, usuarios y gestionar préstamos en una biblioteca académica. El proyecto fue construido aplicando buenas prácticas de control de versiones con Git y GitHub, organizando el trabajo mediante ramas por funcionalidades.
